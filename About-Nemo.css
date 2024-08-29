@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    height: 300vh;
+}
+
+.nemo-card {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.nemo-heading {
+    font-style: bold;
+    font-size: 25px;
+    margin: 10px;
+    color: white;
+}
+
+.nemo-button {
+    background-color: white;
+    color: Tomato;
+    margin: 14px;
+    border-radius: 8px;
+    border-style: none;
+    height: 28px;
+    width: 80px;
+    font-size: 10px;
+}
+
+.nemo-paragraph {
+    padding: 10px;
+    color: white;
+}
+
+.images {
+    height: 40vh;
+    width: 80vh;
+    margin: 10px;
+    border-radius: 8px;
+}
